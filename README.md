@@ -1,7 +1,8 @@
-# Kya_StoryTelling-c88
-Aula c88 atualizada, completa e funcionando perfeitamente!
+# Kya_StoryTelling-c89
+Aula c89 atualizada, completa e funcionando perfeitamente!
 
 AppLoading foi substituído por Splashscreen 
+Drawer Personalizada e atualizada
 
 adicionada uma imagem divertida para a imagem de perfil do usuário!
 
